@@ -1,0 +1,681 @@
+2024-01-14 07-00-27| Main Thread ID: 1
+2024-01-14 07-00-27| Enabled Traces: 
+2024-01-14 07-00-27| Starting thread [Networking 1 WorkerPool Thread 0]...
+2024-01-14 07-00-27| Started thread [Networking 1 WorkerPool Thread 0] with id 2
+2024-01-14 07-00-27| Starting thread [Networking 2 WorkerPool Thread 0]...
+2024-01-14 07-00-27| Started thread [Networking 2 WorkerPool Thread 0] with id 3
+2024-01-14 07-00-27| Avorion server 2.4.2 fe9f7e4f68ce running on Windows 10 starting up in "D:\TCAFiles\Users\stuartj\37172\Avorion"
+2024-01-14 07-00-27| Version Hash: 2038548267253836604
+2024-01-14 07-00-27| CPU: AMD Ryzen 7 3700X 8-Core Processor              16 Cores
+2024-01-14 07-00-27| RAM: 128GB
+2024-01-14 07-00-27| 
+2024-01-14 07-00-27| Initializing networking...
+2024-01-14 07-00-27| Server version, as listed publicly: 2.4.2.40992
+2024-01-14 07-00-28| Server connected to Steam successfully
+2024-01-14 07-00-28| Server is VAC Secure!
+2024-01-14 07-00-28| Game Server Steam ID: 90179586894671875
+2024-01-14 07-00-28| Game Port: 27005
+2024-01-14 07-00-28| Steam Port: 27021
+2024-01-14 07-00-28| Steam Query Port: 27025
+2024-01-14 07-00-28| Query Port: 27003
+2024-01-14 07-00-28| 
+2024-01-14 07-00-28| Steam Networking initialized.
+2024-01-14 07-00-28| Installed Steam exception handler
+2024-01-14 07-00-28| Starting RCON server...Starting thread [RCON]...
+2024-01-14 07-00-28| Started thread [RCON] with id 4
+2024-01-14 07-00-28| RCON server started. Port: 27006
+2024-01-14 07-00-28|  ok
+2024-01-14 07-00-28| Loading global variables...
+2024-01-14 07-00-29| Found 0 mods in "D:\TCAFiles\Users\stuartj\37172\Avorion\modconfig.lua".
+2024-01-14 07-00-31| name: Iohtas' Extra Avorion Server
+2024-01-14 07-00-31| seed: 0
+2024-01-14 07-00-31| port: 27005
+2024-01-14 07-00-31| max online players: 15
+2024-01-14 07-00-31| save interval: 600
+2024-01-14 07-00-31| broadcast interval: 5
+2024-01-14 07-00-31| max loaded sector time: 300
+2024-01-14 07-00-31| weak update: yes
+2024-01-14 07-00-31| worker threads: 1
+2024-01-14 07-00-31| generator threads: 2
+2024-01-14 07-00-31| script background threads: 2
+2024-01-14 07-00-31| difficulty: Veteran
+2024-01-14 07-00-31| scenario: FreePlay
+2024-01-14 07-00-31| tutorial: no
+2024-01-14 07-00-31| collision: 1
+2024-01-14 07-00-31| access list: Blacklist
+2024-01-14 07-00-31| multiplayer: yes
+2024-01-14 07-00-31| vac secure: yes
+2024-01-14 07-00-31| listed: yes
+2024-01-14 07-00-31| steam networking: yes
+2024-01-14 07-00-31| send crash reports: no
+2024-01-14 07-00-31| Backup creation enabled. Path: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups"
+2024-01-14 07-00-31| Please ensure that the server has write-access to that path.
+2024-01-14 07-00-31| administrators: 'Erodrayle' 
+2024-01-14 07-00-31| Commands file: D:\TCAFiles\Users\stuartj\37172\Avorion\commands.txt
+2024-01-14 07-00-31| Initializing sector database...
+2024-01-14 07-00-31| Starting thread [Create Sectors WorkerPool Thread 0]...
+2024-01-14 07-00-31| Started thread [Create Sectors WorkerPool Thread 0] with id 5
+2024-01-14 07-00-31| Starting thread [Create Sectors WorkerPool Thread 1]...
+2024-01-14 07-00-31| Started thread [Create Sectors WorkerPool Thread 1] with id 6
+2024-01-14 07-00-31| Starting thread [Save Sectors WorkerPool Thread 0]...
+2024-01-14 07-00-31| Started thread [Save Sectors WorkerPool Thread 0] with id 7
+2024-01-14 07-00-31| Initializing faction database...
+2024-01-14 07-00-31| Starting thread [Save Factions WorkerPool Thread 0]...
+2024-01-14 07-00-31| Started thread [Save Factions WorkerPool Thread 0] with id 8
+2024-01-14 07-00-31| Initializing galaxy...
+2024-01-14 07-00-31| Starting up 1 worker threads...
+2024-01-14 07-00-31| Tried initializing game workerpool with less than 2 threads. Using 2 threads instead.
+2024-01-14 07-00-31| Starting thread [Game WorkerPool Thread 0]...
+2024-01-14 07-00-31| Started thread [Game WorkerPool Thread 0] with id 9
+2024-01-14 07-00-31| Starting thread [Game WorkerPool Thread 1]...
+2024-01-14 07-00-31| Started thread [Game WorkerPool Thread 1] with id 10
+2024-01-14 07-00-31| Starting up 2 script background threads...
+2024-01-14 07-00-31| Starting thread [Lua WorkerPool Thread 0]...
+2024-01-14 07-00-31| Started thread [Lua WorkerPool Thread 0] with id 11
+2024-01-14 07-00-31| Starting thread [Lua WorkerPool Thread 1]...
+2024-01-14 07-00-31| Started thread [Lua WorkerPool Thread 1] with id 12
+2024-01-14 07-00-31| Starting thread [Lua WorkerPool Thread 2]...
+2024-01-14 07-00-31| Started thread [Lua WorkerPool Thread 2] with id 13
+2024-01-14 07-00-31| Starting thread [Lua WorkerPool Thread 3]...
+2024-01-14 07-00-31| Started thread [Lua WorkerPool Thread 3] with id 14
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 0] with id 11 exiting...
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 0] with id 11 exited
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 1] with id 12 exiting...
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 1] with id 12 exited
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 2] with id 13 exiting...
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 2] with id 13 exited
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 3] with id 14 exiting...
+2024-01-14 07-00-31| Thread [Lua WorkerPool Thread 3] with id 14 exited
+2024-01-14 07-00-31| Starting thread [Lua WorkerPool Thread 4]...
+2024-01-14 07-00-31| Started thread [Lua WorkerPool Thread 4] with id 15
+2024-01-14 07-00-31| Starting thread [Lua WorkerPool Thread 5]...
+2024-01-14 07-00-31| Started thread [Lua WorkerPool Thread 5] with id 16
+2024-01-14 07-00-31| Loading groups...
+2024-01-14 07-00-31| Loading script data...
+2024-01-14 07-00-31| Galaxy initialized.
+2024-01-14 07-00-31| Setting startup script...
+2024-01-14 07-00-31| Starting thread [Input Commands]...
+2024-01-14 07-00-31| Started thread [Input Commands] with id 17
+2024-01-14 07-00-31| Server has been running for 645937 seconds in total, and 645941 without pauses.
+2024-01-14 07-00-31| Starting thread [UDP Connection Receive]...
+2024-01-14 07-00-31| Started thread [UDP Connection Receive] with id 18
+2024-01-14 07-00-31| Server startup complete.
+2024-01-14 07-00-31| Starting thread [HangDetector]...
+2024-01-14 07-00-31| Server UDP: Error receiving from 127.0.0.1, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2024-01-14 07-00-31| Started thread [HangDetector] with id 19
+2024-01-14 07-00-31| Starting thread [Steam Networking Receive]...
+2024-01-14 07-00-31| Started thread [Steam Networking Receive] with id 20
+2024-01-14 07-10-35| Triggered saving of all server data.
+2024-01-14 07-20-38| Triggered saving of all server data.
+2024-01-14 07-30-42| Triggered saving of all server data.
+2024-01-14 07-35-06| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.127s); saving backup ...
+2024-01-14 07-35-07| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-14 07-35-06.bak" (0.424s)
+2024-01-14 07-37-57| <> Massive amounts of Xsotan are swarming in the center of the galaxy.
+2024-01-14 07-40-45| Triggered saving of all server data.
+2024-01-14 07-50-49| Triggered saving of all server data.
+2024-01-14 08-00-52| Triggered saving of all server data.
+2024-01-14 08-08-07| <> The defenses were overrun. The attack of the Xsotan swarm succeded.
+2024-01-14 08-10-56| Triggered saving of all server data.
+2024-01-14 08-20-59| Triggered saving of all server data.
+2024-01-14 08-31-03| Triggered saving of all server data.
+2024-01-14 08-35-27| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.133s); saving backup ...
+2024-01-14 08-35-27| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-14 08-35-27.bak" (0.424s)
+2024-01-14 08-41-06| Triggered saving of all server data.
+2024-01-14 08-51-10| Triggered saving of all server data.
+2024-01-14 09-01-13| Triggered saving of all server data.
+2024-01-14 09-11-17| Triggered saving of all server data.
+2024-01-14 09-21-20| Triggered saving of all server data.
+2024-01-14 09-31-24| Triggered saving of all server data.
+2024-01-14 09-35-48| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.127s); saving backup ...
+2024-01-14 09-35-49| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-14 09-35-48.bak" (0.426s)
+2024-01-14 09-41-27| Triggered saving of all server data.
+2024-01-14 09-51-31| Triggered saving of all server data.
+2024-01-14 10-01-35| Triggered saving of all server data.
+2024-01-14 10-08-50| <> Massive amounts of Xsotan are swarming in the center of the galaxy.
+2024-01-14 10-11-38| Triggered saving of all server data.
+2024-01-14 10-21-42| Triggered saving of all server data.
+2024-01-14 10-31-46| Triggered saving of all server data.
+2024-01-14 10-36-10| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.13s); saving backup ...
+2024-01-14 10-36-10| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-14 10-36-10.bak" (0.458s)
+2024-01-14 10-39-00| <> The defenses were overrun. The attack of the Xsotan swarm succeded.
+2024-01-14 10-41-49| Triggered saving of all server data.
+2024-01-14 10-51-53| Triggered saving of all server data.
+2024-01-14 11-01-56| Triggered saving of all server data.
+2024-01-14 11-12-00| Triggered saving of all server data.
+2024-01-14 11-22-03| Triggered saving of all server data.
+2024-01-14 11-32-06| Triggered saving of all server data.
+2024-01-14 11-36-30| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.137s); saving backup ...
+2024-01-14 11-36-31| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-14 11-36-30.bak" (0.43s)
+2024-01-14 11-42-09| Triggered saving of all server data.
+2024-01-14 11-52-12| Triggered saving of all server data.
+2024-01-14 12-02-15| Triggered saving of all server data.
+2024-01-14 12-12-18| Triggered saving of all server data.
+2024-01-14 12-22-21| Triggered saving of all server data.
+2024-01-14 12-32-24| Triggered saving of all server data.
+2024-01-14 12-36-48| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.122s); saving backup ...
+2024-01-14 12-36-48| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-14 12-36-48.bak" (0.395s)
+2024-01-14 12-39-38| <> Massive amounts of Xsotan are swarming in the center of the galaxy.
+2024-01-14 12-42-27| Triggered saving of all server data.
+2024-01-14 12-43-20| OnP2PSessionRequest from 76561198001571704
+2024-01-14 12-43-25| Steam authentication confirmed for 76561198001571704
+2024-01-14 12-43-25| Authentication successful for 76561198001571704
+2024-01-14 12-43-25| Connection to client established
+2024-01-14 12-43-25| Connection accepted from 97.136.123.31:0
+2024-01-14 12-43-31| 'Erodrayle' (1) (76561198001571704) owns BlackMarket DLC: yes, client reports: yes, Steam reports: 1
+2024-01-14 12-43-31| 'Erodrayle' (1) (76561198001571704) owns IntoTheRift DLC: no, client reports: no, Steam reports: 0
+2024-01-14 12-43-31| 'Erodrayle' (1) (76561198001571704) owns Behemoth DLC: yes, client reports: yes, Steam reports: 1
+2024-01-14 12-43-31| Creating sector at (-68:262)
+2024-01-14 12-43-31| Player logged in: Erodrayle, index: 1
+2024-01-14 12-43-31| <Server> Player Erodrayle joined the galaxy
+2024-01-14 12-43-31| create save work for sector (-68:262), 0x181de460, entities: 0
+SectorDatab2024-01-14 12-43-32a| se: LoadingS Seeccttoorr D(a-t1a4b0a:s3e0:6 )L
+2024-01-14 12-43-32| oading Sector (-116:210)
+2024-01-14 12-43-32| Player Erodrayle moved to sector (-68:262) server time taken for change: 0ms
+2024-01-14 12-43-32| create save work for sector (-68:262), 0x181de460, entities: 3
+2024-01-14 12-43-32| saving sector (-68:262)
+2024-01-14 12-43-32| sector (-68:262) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-68_262"
+2024-01-14 12-43-34| SectorDatabase: Loading Sector (-108:124)
+2024-01-14 12-43-34| SectorDatabase: Loading Sector (-99:149)
+2024-01-14 12-43-38| SectorDatabase: Loading Sector (-91:138)
+2024-01-14 12-44-15| server: startAreaAnalysis  1
+2024-01-14 12-44-15| running area analysis
+2024-01-14 12-44-16| server: finished AreaAnalysis  1
+2024-01-14 12-50-08| create save work for sector (-68:262), 0x181de460, entities: 0
+2024-01-14 12-50-08| Player Erodrayle moved to sector (-140:306)from (-68:262) server time taken for change: 255ms
+2024-01-14 12-50-08| SectorSDateabcasteo: rLDoaaditnag bSaescteor:  (L-o1a4d0i:n3g0 5S)e
+2024-01-14 12-50-08| ctor (-139:307)
+2024-01-14 12-50-08| create save work for sector (-140:306), 0x18e5c4b0, entities: 1126
+2024-01-14 12-50-08| saving sector (-140:306)
+2024-01-14 12-50-09| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 12-52-30| Triggered saving of all server data.
+2024-01-14 12-52-30| create save work for sector (-140:305), 0x468a5d50, entities: 759
+2024-01-14 12-52-30| saving sector (-140:305)
+2024-01-14 12-52-30| create save work for sector (-140:306), 0x18e5c4b0, entities: 1128
+2024-01-14 12-52-30| sector (-140:305) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_305"
+2024-01-14 12-52-31| saving sector (-140:306)
+2024-01-14 12-52-31| create save work for sector (-139:307), 0x468a08d0, entities: 3
+2024-01-14 12-52-31| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 12-52-31| saving sector (-139:307)
+2024-01-14 12-52-31| sector (-139:307) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-139_307"
+2024-01-14 12-52-31| create save work for sector (-116:210), 0x1a498920, entities: 246
+2024-01-14 12-52-31| saving sector (-116:210)
+2024-01-14 12-52-31| create save work for sector (-108:124), 0x2aeec050, entities: 21
+2024-01-14 12-52-32| sector (-116:210) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-116_210"
+2024-01-14 12-52-32| saving sector (-108:124)
+2024-01-14 12-52-32| sector (-108:124) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-108_124"
+2024-01-14 12-52-32| create save work for sector (-99:149), 0x1f4230d0, entities: 1978
+2024-01-14 12-52-32| saving sector (-99:149)
+2024-01-14 12-52-32| create save work for sector (-91:138), 0x1f27b030, entities: 944
+2024-01-14 12-52-33| sector (-99:149) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-99_149"
+2024-01-14 12-52-33| saving sector (-91:138)
+2024-01-14 12-52-33| create save work for sector (-68:262), 0x181de460, entities: 0
+2024-01-14 12-52-33| sector (-91:138) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-91_138"
+2024-01-14 12-56-35| Server: finishing Ally Cargo Ship ...
+2024-01-14 12-56-35| Server: finishing Aux Combat Ship ...
+2024-01-14 12-56-35| Server: Finish successful
+2024-01-14 12-56-35| Server: finishing Hillsbourough ...
+2024-01-14 12-56-35| Server: Finish successful
+2024-01-14 12-56-35| Server: finishing Venator ...
+2024-01-14 12-56-35| Server: Finish successful
+2024-01-14 12-56-35| Server: Finish successful
+2024-01-14 12-56-35| Server: finishing Aux Combat Ship ...
+2024-01-14 12-56-35| Server: finishing Hillsbourough ...
+2024-01-14 12-56-35| Server: finishing Venator ...
+2024-01-14 12-56-36| Creating sector at (-66:285)
+2024-01-14 12-56-36| create save work for sector (-66:285), 0x41679590, entities: 0
+2024-01-14 12-56-36| (-66:285): Restoring 22's craft Ally Cargo Ship, type: 1
+2024-01-14 12-56-36| (-66:285): Restoring 22's craft Aux Combat Ship, type: 1
+2024-01-14 12-56-36| (-66:285): Restoring 22's craft Hillsbourough, type: 1
+2024-01-14 12-56-36| (-66:285): Restoring 22's craft Venator, type: 1
+2024-01-14 13-00-19| create save work for sector (-140:306), 0x18e5c4b0, entities: 1216
+2024-01-14 13-00-19| Player Erodrayle moved to sector (-66:285)from (-140:306) server time taken for change: 6ms
+2024-01-14 13-00-19| saving sector (-140:306)
+2024-01-14 13-00-19| create save work for sector (-66:285), 0x41679590, entities: 67
+2024-01-14 13-00-20| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-00-20| saving sector (-66:285)
+2024-01-14 13-00-20| sector (-66:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-66_285"
+2024-01-14 13-00-43| Creating sector at (-65:285)
+2024-01-14 13-00-43| create save work for sector (-65:285), 0x4167ff30, entities: 0
+2024-01-14 13-00-56| create save work for sector (-66:285), 0x41679590, entities: 0
+2024-01-14 13-00-56| Player Erodrayle moved to sector (-65:285)from (-66:285) server time taken for change: 1ms
+2024-01-14 13-00-57| create save work for sector (-65:285), 0x4167ff30, entities: 134
+2024-01-14 13-00-57| saving sector (-65:285)
+2024-01-14 13-00-57| sector (-65:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-65_285"
+2024-01-14 13-01-13| data/scripts/entity/story/exodusbeacon.lua:startExodus(): Invoke took 1028 ms
+2024-01-14 13-02-33| Triggered saving of all server data.
+2024-01-14 13-02-33| create save work for sector (-140:305), 0x468a5d50, entities: 759
+2024-01-14 13-02-33| saving sector (-140:305)
+2024-01-14 13-02-33| create save work for sector (-140:306), 0x18e5c4b0, entities: 1185
+2024-01-14 13-02-33| sector (-140:305) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_305"
+2024-01-14 13-02-33| saving sector (-140:306)
+2024-01-14 13-02-33| create save work for sector (-139:307), 0x468a08d0, entities: 3
+2024-01-14 13-02-34| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-02-34| saving sector (-139:307)
+2024-01-14 13-02-34| sector (-139:307) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-139_307"
+2024-01-14 13-02-34| create save work for sector (-116:210), 0x1a498920, entities: 246
+2024-01-14 13-02-34| saving sector (-116:210)
+2024-01-14 13-02-34| create save work for sector (-108:124), 0x2aeec050, entities: 21
+2024-01-14 13-02-34| sector (-116:210) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-116_210"
+2024-01-14 13-02-35| saving sector (-108:124)
+2024-01-14 13-02-35| sector (-108:124) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-108_124"
+2024-01-14 13-02-35| create save work for sector (-99:149), 0x1f4230d0, entities: 1978
+2024-01-14 13-02-35| saving sector (-99:149)
+2024-01-14 13-02-35| create save work for sector (-91:138), 0x1f27b030, entities: 944
+2024-01-14 13-02-35| sector (-99:149) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-99_149"
+2024-01-14 13-02-35| saving sector (-91:138)
+2024-01-14 13-02-35| create save work for sector (-66:285), 0x41679590, entities: 0
+2024-01-14 13-02-36| sector (-91:138) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-91_138"
+2024-01-14 13-02-36| create save work for sector (-65:285), 0x4167ff30, entities: 134
+2024-01-14 13-02-36| saving sector (-65:285)
+2024-01-14 13-02-36| sector (-65:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-65_285"
+2024-01-14 13-03-46| create save work for sector (-65:285), 0x4167ff30, entities: 134
+2024-01-14 13-03-46| saving sector (-65:285)
+2024-01-14 13-03-46| sector (-65:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-65_285"
+2024-01-14 13-03-46| Player Erodrayle moved to sector (-140:306)from (-65:285) server time taken for change: 258ms
+2024-01-14 13-03-46| create save work for sector (-140:306), 0x18e5c4b0, entities: 1151
+2024-01-14 13-03-46| saving sector (-140:306)
+2024-01-14 13-03-47| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-04-44| server: startAreaAnalysis  1
+2024-01-14 13-04-44| running area analysis
+2024-01-14 13-04-45| server: finished AreaAnalysis  1
+2024-01-14 13-06-09| Server: recalling Ally Cargo Ship ...
+2024-01-14 13-06-09| Server: Recall successful
+2024-01-14 13-06-11| Creating sector at (-53:285)
+2024-01-14 13-06-11| create save work for sector (-53:285), 0x5d657b00, entities: 0
+2024-01-14 13-06-11| (-53:285): Restoring 22's craft Ally Cargo Ship, type: 1
+2024-01-14 13-06-40| server: startAreaAnalysis  1
+2024-01-14 13-06-40| running area analysis
+2024-01-14 13-06-40| server: finished AreaAnalysis  1
+2024-01-14 13-07-11| server: startAreaAnalysis  1
+2024-01-14 13-07-11| running area analysis
+2024-01-14 13-07-11| server: finished AreaAnalysis  1
+2024-01-14 13-07-25| server: startAreaAnalysis  1
+2024-01-14 13-07-25| running area analysis
+2024-01-14 13-07-25| server: finished AreaAnalysis  1
+2024-01-14 13-07-47| server: startAreaAnalysis  1
+2024-01-14 13-07-47| running area analysis
+2024-01-14 13-07-47| server: finished AreaAnalysis  1
+2024-01-14 13-09-27| server: startAreaAnalysis  1
+2024-01-14 13-09-28| running area analysis
+2024-01-14 13-09-28| server: finished AreaAnalysis  1
+2024-01-14 13-09-36| server: startAreaAnalysis  1
+2024-01-14 13-09-36| running area analysis
+2024-01-14 13-09-36| server: finished AreaAnalysis  1
+2024-01-14 13-09-47| <> The defenses were overrun. The attack of the Xsotan swarm succeded.
+2024-01-14 13-10-39| Server: finishing Hillsbourough ...
+2024-01-14 13-10-39| Server: Finish successful
+2024-01-14 13-10-40| Creating sector at (-146:286)
+2024-01-14 13-10-40| create save work for sector (-146:286), 0x6cdeb020, entities: 0
+2024-01-14 13-10-40| (-146:286): Restoring 22's craft Hillsbourough, type: 1
+2024-01-14 13-10-45| create save work for sector (-140:306), 0x18e5c4b0, entities: 1192
+2024-01-14 13-10-45| Player Erodrayle moved to sector (-146:286)from (-140:306) server time taken for change: 4ms
+2024-01-14 13-10-45| saving sector (-140:306)
+2024-01-14 13-10-46| create save work for sector (-146:286), 0x6cdeb020, entities: 33
+2024-01-14 13-10-46| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-10-46| saving sector (-146:286)
+2024-01-14 13-10-46| sector (-146:286) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-146_286"
+2024-01-14 13-11-06| Creating sector at (-141:293)
+2024-01-14 13-11-06| create save work for sector (-141:293), 0x6cdeef80, entities: 0
+2024-01-14 13-11-17| create save work for sector (-146:286), 0x6cdeb020, entities: 0
+2024-01-14 13-11-17| Player Erodrayle moved to sector (-141:293)from (-146:286) server time taken for change: 0ms
+2024-01-14 13-11-17| create save work for sector (-141:293), 0x6cdeef80, entities: 33
+2024-01-14 13-11-17| saving sector (-141:293)
+2024-01-14 13-11-17| sector (-141:293) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-141_293"
+2024-01-14 13-11-17| Creating sector at (-137:301)
+2024-01-14 13-11-17| create save work for sector (-137:301), 0x6cde9b00, entities: 0
+2024-01-14 13-11-59| create save work for sector (-141:293), 0x6cdeef80, entities: 0
+2024-01-14 13-11-59| Player Erodrayle moved to sector (-137:301)from (-141:293) server time taken for change: 1ms
+2024-01-14 13-11-59| Creating sector at (-132:308)
+2024-01-14 13-11-59| create save work for sector (-137:301), 0x6cde9b00, entities: 33
+2024-01-14 13-11-59| create save work for sector (-132:308), 0x6cdee4f0, entities: 0
+2024-01-14 13-11-59| saving sector (-137:301)
+2024-01-14 13-11-59| sector (-137:301) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-137_301"
+2024-01-14 13-12-30| create save work for sector (-65:285), 0x4167ff30, entities: 67
+2024-01-14 13-12-30| saving sector 0x4167ff30
+2024-01-14 13-12-30| saving sector 0x4167ff30
+2024-01-14 13-12-30| saving sector (-65:285)
+2024-01-14 13-12-30| sector (-65:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-65_285"
+2024-01-14 13-12-36| Triggered saving of all server data.
+2024-01-14 13-12-36| create save work for sector (-146:286), 0x6cdeb020, entities: 0
+2024-01-14 13-12-36| create save work for sector (-141:293), 0x6cdeef80, entities: 0
+2024-01-14 13-12-36| create save work for sector (-140:305), 0x468a5d50, entities: 759
+2024-01-14 13-12-36| saving sector (-140:305)
+2024-01-14 13-12-36| create save work for sector (-140:306), 0x18e5c4b0, entities: 1173
+2024-01-14 13-12-37| sector (-140:305) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_305"
+2024-01-14 13-12-37| saving sector (-140:306)
+2024-01-14 13-12-37| create save work for sector (-139:307), 0x468a08d0, entities: 3
+2024-01-14 13-12-37| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-12-37| saving sector (-139:307)
+2024-01-14 13-12-37| sector (-139:307) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-139_307"
+2024-01-14 13-12-37| create save work for sector (-137:301), 0x6cde9b00, entities: 33
+2024-01-14 13-12-37| saving sector (-137:301)
+2024-01-14 13-12-38| sector (-137:301) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-137_301"
+2024-01-14 13-12-38| create save work for sector (-132:308), 0x6cdee4f0, entities: 0
+2024-01-14 13-12-38| create save work for sector (-116:210), 0x1a498920, entities: 246
+2024-01-14 13-12-38| saving sector (-116:210)
+2024-01-14 13-12-38| create save work for sector (-108:124), 0x2aeec050, entities: 0
+2024-01-14 13-12-38| sector (-116:210) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-116_210"
+2024-01-14 13-12-38| create save work for sector (-99:149), 0x1f4230d0, entities: 1954
+2024-01-14 13-12-38| saving sector (-99:149)
+2024-01-14 13-12-38| create save work for sector (-91:138), 0x1f27b030, entities: 944
+2024-01-14 13-12-39| sector (-99:149) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-99_149"
+2024-01-14 13-12-39| saving sector (-91:138)
+2024-01-14 13-12-39| create save work for sector (-53:285), 0x5d657b00, entities: 0
+2024-01-14 13-12-39| sector (-91:138) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-91_138"
+2024-01-14 13-12-40| Server: finishing Venator ...
+2024-01-14 13-12-40| Server: Finish successful
+2024-01-14 13-12-40| Server: finishing Aux Combat Ship ...
+2024-01-14 13-12-40| Server: Finish successful
+2024-01-14 13-12-40| Creating sector at (-155:291)
+2024-01-14 13-12-40| create save work for sector (-155:291), 0x6cdf6e40, entities: 0
+2024-01-14 13-12-40| (-155:291): Restoring 22's craft Aux Combat Ship, type: 1
+2024-01-14 13-12-40| Player Erodrayle moved to sector (-132:308)from (-137:301) server time taken for change: 0ms
+2024-01-14 13-12-40| create save work for sector (-137:301), 0x6cde9b00, entities: 0
+2024-01-14 13-12-41| Creating sector at (-129:311)
+2024-01-14 13-12-41| create save work for sector (-129:311), 0x6ce01740, entities: 0
+2024-01-14 13-12-41| create save work for sector (-132:308), 0x6cdee4f0, entities: 33
+2024-01-14 13-12-41| saving sector (-132:308)
+2024-01-14 13-12-41| sector (-132:308) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-132_308"
+2024-01-14 13-13-12| create save work for sector (-132:308), 0x6cdee4f0, entities: 0
+2024-01-14 13-13-12| Player Erodrayle moved to sector (-129:311)from (-132:308) server time taken for change: 0ms
+2024-01-14 13-13-13| create save work for sector (-129:311), 0x6ce01740, entities: 75
+2024-01-14 13-13-13| saving sector (-129:311)
+2024-01-14 13-13-13| sector (-129:311) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-129_311"
+2024-01-14 13-14-04| create save work for sector (-129:311), 0x6ce01740, entities: 75
+2024-01-14 13-14-04| saving sector (-129:311)
+2024-01-14 13-14-04| sector (-129:311) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-129_311"
+2024-01-14 13-14-04| Player Erodrayle moved to sector (-99:149)from (-129:311) server time taken for change: 265ms
+2024-01-14 13-14-04| create save work for sector (-99:149), 0x1f4230d0, entities: 1954
+2024-01-14 13-14-04| saving sector (-99:149)
+2024-01-14 13-14-04| SectorDatabase: Loading Sector (-103:148)2024-01-14 13-14-04| 
+SectorDatabase: Loading Sector (-96:153)
+2024-01-14 13-14-05| sector (-99:149) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-99_149"
+2024-01-14 13-14-07| SectorDatabase: Loading Sector (-96:148)
+2024-01-14 13-14-29| create save work for sector (-99:149), 0x1f4230d0, entities: 1954
+2024-01-14 13-14-29| saving sector (-99:149)
+2024-01-14 13-14-29| Player Erodrayle moved to sector (-140:306)from (-99:149) server time taken for change: 269ms
+2024-01-14 13-14-29| create save work for sector (-140:306), 0x18e5c4b0, entities: 1151
+2024-01-14 13-14-30| sector (-99:149) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-99_149"
+2024-01-14 13-14-30| saving sector (-140:306)
+2024-01-14 13-14-30| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-14-55| Creating sector at (-130:302)
+2024-01-14 13-14-56| create save work for sector (-130:302), 0x3a657580, entities: 0
+2024-01-14 13-15-15| Creating sector at (-133:294)
+2024-01-14 13-15-15| create save work for sector (-133:294), 0x3a665de0, entities: 0
+2024-01-14 13-16-43| Creating sector at (-134:285)
+2024-01-14 13-16-44| Generating new content for sector (-134:285)
+2024-01-14 13-16-49| create save work for sector (-134:285), 0x4bceb9b0, entities: 1024
+2024-01-14 13-16-49| saving sector (-134:285)
+2024-01-14 13-16-49| sector (-134:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-134_285"
+2024-01-14 13-17-41| Server: finishing Ally Cargo Ship ...
+2024-01-14 13-17-41| Server: Finish successful
+2024-01-14 13-17-41| (-129:311): Restoring 22's craft Ally Cargo Ship, type: 1
+2024-01-14 13-18-07| Creating sector at (-138:282)
+2024-01-14 13-18-07| create save work for sector (-138:282), 0x5e25b490, entities: 0
+2024-01-14 13-18-32| create save work for sector (-140:306), 0x18e5c4b0, entities: 1431
+2024-01-14 13-18-32| Player Erodrayle moved to sector (-134:285)from (-140:306) server time taken for change: 22ms
+2024-01-14 13-18-32| saving sector (-140:306)
+2024-01-14 13-18-32| create save work for sector (-134:285), 0x4bceb9b0, entities: 1057
+2024-01-14 13-18-33| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-18-33| saving sector (-134:285)
+2024-01-14 13-18-33| sector (-134:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-134_285"
+2024-01-14 13-19-14| create save work for sector (-134:285), 0x4bceb9b0, entities: 1024
+2024-01-14 13-19-14| Player Erodrayle moved to sector (-138:282)from (-134:285) server time taken for change: 1ms
+2024-01-14 13-19-14| saving sector (-134:285)
+2024-01-14 13-19-14| sector (-134:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-134_285"
+2024-01-14 13-19-15| create save work for sector (-138:282), 0x5e25b490, entities: 112
+2024-01-14 13-19-15| saving sector (-138:282)
+2024-01-14 13-19-15| sector (-138:282) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-138_282"
+2024-01-14 13-19-30| create save work for sector (-96:148), 0x3a658aa0, entities: 696
+2024-01-14 13-19-30| saving sector 0x3a658aa0
+2024-01-14 13-19-30| saving sector 0x3a658aa0
+2024-01-14 13-19-30| create save work for sector (-103:148), 0x6cdeda60, entities: 554
+2024-01-14 13-19-30| create save work for sector (-96:153), 0x6cdfed00, entities: 1341
+2024-01-14 13-19-30| saving sector (-96:148)
+2024-01-14 13-19-31| sector (-96:148) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-96_148"
+2024-01-14 13-19-31| saving sector 0x6cdeda60
+2024-01-14 13-19-31| saving sector 0x6cdeda60
+2024-01-14 13-19-31| saving sector (-103:148)
+2024-01-14 13-19-31| sector (-103:148) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-103_148"
+2024-01-14 13-19-31| saving sector 0x6cdfed00
+2024-01-14 13-19-31| saving sector 0x6cdfed00
+2024-01-14 13-19-31| saving sector (-96:153)
+2024-01-14 13-19-32| sector (-96:153) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-96_153"
+2024-01-14 13-20-06| <> Sector is out of reach. Plotting an intermediate course.
+2024-01-14 13-20-06| <> Calculating jump route to (-142:290). Please stand by.
+2024-01-14 13-20-06| Creating sector at (-142:290)
+2024-01-14 13-20-06| create save work for sector (-142:290), 0x6cdeda60, entities: 0
+2024-01-14 13-20-22| Creating sector at (-154:300)
+2024-01-14 13-20-22| create save work for sector (-154:300), 0x6cdeb020, entities: 0
+2024-01-14 13-20-28| Creating sector at (-154:309)
+2024-01-14 13-20-28| create save work for sector (-154:309), 0x6cdf78d0, entities: 0
+2024-01-14 13-20-56| server: startAreaAnalysis  1
+2024-01-14 13-20-56| running area analysis
+2024-01-14 13-20-56| server: finished AreaAnalysis  1
+2024-01-14 13-21-14| Server: recalling Aux Combat Ship ...
+2024-01-14 13-21-14| Server: recalling Venator ...
+2024-01-14 13-21-14| Server: finishing Aux Combat Ship ...
+2024-01-14 13-21-14| Server: Finish successful
+2024-01-14 13-21-14| Server: Recall successful
+2024-01-14 13-21-14| Server: Recall successful
+2024-01-14 13-21-15| Creating sector at (-157:294)
+2024-01-14 13-21-15| create save work for sector (-157:294), 0x3a65aa50, entities: 0
+2024-01-14 13-21-15| (-157:294): Restoring 22's craft Aux Combat Ship, type: 1
+2024-01-14 13-21-15| (-157:294): Restoring 22's craft Venator, type: 1
+2024-01-14 13-21-30| Creating sector at (-150:288)
+2024-01-14 13-21-30| Generating new content for sector (-150:288)
+2024-01-14 13-21-34| Creating sector at (-156:303)
+2024-01-14 13-21-34| create save work for sector (-156:303), 0x3c376aa0, entities: 0
+2024-01-14 13-21-36| create save work for sector (-150:288), 0x3a656060, entities: 1669
+2024-01-14 13-21-36| saving sector (-150:288)
+2024-01-14 13-21-36| sector (-150:288) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-150_288"
+2024-01-14 13-21-37| Creating sector at (-142:284)
+2024-01-14 13-21-37| create save work for sector (-142:284), 0x3c374af0, entities: 0
+2024-01-14 13-21-41| Creating sector at (-156:312)
+2024-01-14 13-21-41| create save work for sector (-156:312), 0x3c3794e0, entities: 0
+2024-01-14 13-22-39| Triggered saving of all server data.
+2024-01-14 13-22-39| create save work for sector (-157:294), 0x3a65aa50, entities: 0
+2024-01-14 13-22-39| create save work for sector (-156:303), 0x3c376aa0, entities: 16
+2024-01-14 13-22-39| saving sector (-156:303)
+2024-01-14 13-22-39| sector (-156:303) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-156_303"
+2024-01-14 13-22-39| create save work for sector (-156:312), 0x3c3794e0, entities: 0
+2024-01-14 13-22-39| create save work for sector (-155:291), 0x6cdf6e40, entities: 0
+2024-01-14 13-22-39| create save work for sector (-154:300), 0x6cdeb020, entities: 0
+2024-01-14 13-22-39| create save work for sector (-150:288), 0x3a656060, entities: 1686
+2024-01-14 13-22-39| saving sector (-150:288)
+2024-01-14 13-22-39| create save work for sector (-142:284), 0x3c374af0, entities: 0
+2024-01-14 13-22-40| sector (-150:288) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-150_288"
+2024-01-14 13-22-40| create save work for sector (-142:290), 0x6cdeda60, entities: 0
+2024-01-14 13-22-40| create save work for sector (-140:305), 0x468a5d50, entities: 759
+2024-01-14 13-22-40| saving sector (-140:305)
+2024-01-14 13-22-40| create save work for sector (-140:306), 0x18e5c4b0, entities: 1625
+2024-01-14 13-22-40| sector (-140:305) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_305"
+2024-01-14 13-22-40| saving sector (-140:306)
+2024-01-14 13-22-40| create save work for sector (-139:307), 0x468a08d0, entities: 3
+2024-01-14 13-22-41| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-22-41| saving sector (-139:307)
+2024-01-14 13-22-41| sector (-139:307) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-139_307"
+2024-01-14 13-22-41| create save work for sector (-138:282), 0x5e25b490, entities: 124
+2024-01-14 13-22-41| saving sector (-138:282)
+2024-01-14 13-22-41| create save work for sector (-134:285), 0x4bceb9b0, entities: 1024
+2024-01-14 13-22-41| sector (-138:282) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-138_282"
+2024-01-14 13-22-41| saving sector (-134:285)
+2024-01-14 13-22-41| create save work for sector (-133:294), 0x3a665de0, entities: 0
+2024-01-14 13-22-41| sector (-134:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-134_285"
+2024-01-14 13-22-41| create save work for sector (-129:311), 0x6ce01740, entities: 43
+2024-01-14 13-22-42| saving sector (-129:311)
+2024-01-14 13-22-42| sector (-129:311) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-129_311"
+2024-01-14 13-22-42| create save work for sector (-116:210), 0x1a498920, entities: 246
+2024-01-14 13-22-42| saving sector (-116:210)
+2024-01-14 13-22-42| create save work for sector (-99:149), 0x1f4230d0, entities: 1954
+2024-01-14 13-22-42| sector (-116:210) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-116_210"
+2024-01-14 13-22-42| saving sector (-99:149)
+2024-01-14 13-22-42| create save work for sector (-91:138), 0x1f27b030, entities: 944
+2024-01-14 13-22-43| sector (-99:149) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-99_149"
+2024-01-14 13-22-43| saving sector (-91:138)
+2024-01-14 13-22-43| sector (-91:138) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-91_138"
+2024-01-14 13-23-06| Creating sector at (-157:321)
+2024-01-14 13-23-06| create save work for sector (-157:321), 0x3a65ca00, entities: 0
+2024-01-14 13-23-34| create save work for sector (-139:307), 0x468a08d0, entities: 3
+2024-01-14 13-23-34| saving sector 0x468a08d0
+2024-01-14 13-23-34| saving sector 0x468a08d0
+2024-01-14 13-23-34| create save work for sector (-140:305), 0x468a5d50, entities: 759
+2024-01-14 13-23-34| saving sector (-139:307)
+2024-01-14 13-23-34| sector (-139:307) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-139_307"
+2024-01-14 13-23-34| saving sector 0x468a5d50
+2024-01-14 13-23-34| saving sector 0x468a5d50
+2024-01-14 13-23-34| saving sector (-140:305)
+2024-01-14 13-23-34| sector (-140:305) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_305"
+2024-01-14 13-24-16| create save work for sector (-134:285), 0x4bceb9b0, entities: 1024
+2024-01-14 13-24-16| saving sector 0x4bceb9b0
+2024-01-14 13-24-16| saving sector 0x4bceb9b0
+2024-01-14 13-24-16| saving sector (-134:285)
+2024-01-14 13-24-16| sector (-134:285) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-134_285"
+2024-01-14 13-24-30| Creating sector at (-157:330)
+2024-01-14 13-24-30| Generating new content for sector (-157:330)
+2024-01-14 13-24-32| create save work for sector (-157:330), 0x6cdfcd50, entities: 337
+2024-01-14 13-24-32| saving sector (-157:330)
+2024-01-14 13-24-32| sector (-157:330) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-157_330"
+2024-01-14 13-25-55| Creating sector at (-157:339)
+2024-01-14 13-25-55| create save work for sector (-157:339), 0x4bceb9b0, entities: 0
+2024-01-14 13-26-17| create save work for sector (-116:210), 0x1a498920, entities: 246
+2024-01-14 13-26-17| saving sector 0x1a498920
+2024-01-14 13-26-17| saving sector 0x1a498920
+2024-01-14 13-26-17| saving sector (-116:210)
+2024-01-14 13-26-17| sector (-116:210) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-116_210"
+2024-01-14 13-26-38| create save work for sector (-150:288), 0x3a656060, entities: 1669
+2024-01-14 13-26-38| saving sector 0x3a656060
+2024-01-14 13-26-38| saving sector 0x3a656060
+2024-01-14 13-26-38| saving sector (-150:288)
+2024-01-14 13-26-39| sector (-150:288) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-150_288"
+2024-01-14 13-26-53| Creating sector at (-132:304)
+2024-01-14 13-26-53| Generating new content for sector (-132:304)
+2024-01-14 13-26-58| create save work for sector (-132:304), 0x3c374060, entities: 1379
+2024-01-14 13-26-58| saving sector (-132:304)
+2024-01-14 13-26-58| sector (-132:304) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-132_304"
+2024-01-14 13-27-00| Creating sector at (-135:297)
+2024-01-14 13-27-00| create save work for sector (-135:297), 0x6cdeb020, entities: 0
+2024-01-14 13-27-37| Player Erodrayle moved to sector (-157:339)from (-138:282) server time taken for change: 2ms
+2024-01-14 13-27-37| create save work for sector (-138:282), 0x5e25b490, entities: 1024
+2024-01-14 13-27-37| saving sector (-138:282)
+2024-01-14 13-27-37| create save work for sector (-157:339), 0x4bceb9b0, entities: 17
+2024-01-14 13-27-37| sector (-138:282) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-138_282"
+2024-01-14 13-27-37| saving sector (-157:339)
+2024-01-14 13-27-37| sector (-157:339) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-157_339"
+2024-01-14 13-28-15| Creating sector at (-138:290)
+2024-01-14 13-28-15| create save work for sector (-138:290), 0x6cde9070, entities: 0
+2024-01-14 13-28-21| Creating sector at (-166:339)
+2024-01-14 13-28-21| create save work for sector (-166:339), 0x6cdf2450, entities: 0
+2024-01-14 13-28-27| create save work for sector (-157:339), 0x4bceb9b0, entities: 17
+2024-01-14 13-28-27| Player Erodrayle moved to sector (-138:282)from (-157:339) server time taken for change: 12ms
+2024-01-14 13-28-27| saving sector (-157:339)
+2024-01-14 13-28-27| sector (-157:339) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-157_339"
+2024-01-14 13-28-27| create save work for sector (-138:282), 0x5e25b490, entities: 872
+2024-01-14 13-28-27| saving sector (-138:282)
+2024-01-14 13-28-27| sector (-138:282) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-138_282"
+2024-01-14 13-28-44| Creating sector at (-175:339)
+2024-01-14 13-28-44| create save work for sector (-175:339), 0x6cdf2ee0, entities: 0
+2024-01-14 13-29-04| 'Erodrayle' (1) (76561198001571704) gave XSTN-K VIII (Legendary) to Alliance ' Just Another Alliance' (22)
+2024-01-14 13-29-05| 'Erodrayle' (1) (76561198001571704) gave XSTN-K VII (Legendary) to Alliance ' Just Another Alliance' (22)
+2024-01-14 13-29-05| 'Erodrayle' (1) (76561198001571704) gave XSTN-K V (Legendary) to Alliance ' Just Another Alliance' (22)
+2024-01-14 13-29-05| 'Erodrayle' (1) (76561198001571704) gave XSTN-K IV (Legendary) to Alliance ' Just Another Alliance' (22)
+2024-01-14 13-29-06| 'Erodrayle' (1) (76561198001571704) gave XSTN-K II (Legendary) to Alliance ' Just Another Alliance' (22)
+2024-01-14 13-29-29| Creating sector at (-138:283)
+2024-01-14 13-29-29| create save work for sector (-138:283), 0x6cdfc2c0, entities: 0
+2024-01-14 13-30-08| Creating sector at (-184:338)
+2024-01-14 13-30-08| create save work for sector (-184:338), 0x4bcee3f0, entities: 0
+2024-01-14 13-30-26| server: startAreaAnalysis  1
+2024-01-14 13-30-27| running area analysis
+2024-01-14 13-30-27| server: finished AreaAnalysis  1
+2024-01-14 13-31-32| Creating sector at (-193:337)
+2024-01-14 13-31-32| create save work for sector (-193:337), 0x3c378a50, entities: 0
+2024-01-14 13-31-39| server: startAreaAnalysis  1
+2024-01-14 13-31-39| running area analysis
+2024-01-14 13-31-39| server: finished AreaAnalysis  1
+2024-01-14 13-31-51| SectorDatabase: Loading Sector (-116:210)
+2024-01-14 13-32-03| create save work for sector (-129:311), 0x6ce01740, entities: 42
+2024-01-14 13-32-03| saving sector 0x6ce01740
+2024-01-14 13-32-03| saving sector 0x6ce01740
+2024-01-14 13-32-03| saving sector (-129:311)
+2024-01-14 13-32-03| sector (-129:311) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-129_311"
+2024-01-14 13-32-21| create save work for sector (-157:330), 0x6cdfcd50, entities: 337
+2024-01-14 13-32-21| saving sector 0x6cdfcd50
+2024-01-14 13-32-21| saving sector 0x6cdfcd50
+2024-01-14 13-32-21| saving sector (-157:330)
+2024-01-14 13-32-21| sector (-157:330) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-157_330"
+2024-01-14 13-32-42| Triggered saving of all server data.
+2024-01-14 13-32-42| create save work for sector (-193:337), 0x3c378a50, entities: 0
+2024-01-14 13-32-42| create save work for sector (-184:338), 0x4bcee3f0, entities: 16
+2024-01-14 13-32-42| saving sector (-184:338)
+2024-01-14 13-32-42| sector (-184:338) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-184_338"
+2024-01-14 13-32-42| create save work for sector (-175:339), 0x6cdf2ee0, entities: 0
+2024-01-14 13-32-42| create save work for sector (-166:339), 0x6cdf2450, entities: 0
+2024-01-14 13-32-42| create save work for sector (-157:339), 0x4bceb9b0, entities: 1
+2024-01-14 13-32-42| saving sector (-157:339)
+2024-01-14 13-32-42| sector (-157:339) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-157_339"
+2024-01-14 13-32-42| create save work for sector (-140:306), 0x18e5c4b0, entities: 1426
+2024-01-14 13-32-43| saving sector (-140:306)
+2024-01-14 13-32-43| create save work for sector (-138:282), 0x5e25b490, entities: 232
+2024-01-14 13-32-43| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-32-43| saving sector (-138:282)
+2024-01-14 13-32-43| sector (-138:282) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-138_282"
+2024-01-14 13-32-43| create save work for sector (-138:283), 0x6cdfc2c0, entities: 0
+2024-01-14 13-32-44| create save work for sector (-138:290), 0x6cde9070, entities: 0
+2024-01-14 13-32-44| create save work for sector (-135:297), 0x6cdeb020, entities: 0
+2024-01-14 13-32-44| create save work for sector (-132:304), 0x3c374060, entities: 1379
+2024-01-14 13-32-44| saving sector (-132:304)
+2024-01-14 13-32-44| create save work for sector (-116:210), 0x4bce3af0, entities: 246
+2024-01-14 13-32-44| sector (-132:304) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-132_304"
+2024-01-14 13-32-44| saving sector (-116:210)
+2024-01-14 13-32-44| create save work for sector (-99:149), 0x1f4230d0, entities: 1942
+2024-01-14 13-32-44| sector (-116:210) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-116_210"
+2024-01-14 13-32-44| saving sector (-99:149)
+2024-01-14 13-32-44| create save work for sector (-91:138), 0x1f27b030, entities: 944
+2024-01-14 13-32-45| sector (-99:149) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-99_149"
+2024-01-14 13-32-45| saving sector (-91:138)
+2024-01-14 13-32-46| sector (-91:138) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-91_138"
+2024-01-14 13-32-56| Creating sector at (-199:337)
+2024-01-14 13-32-56| create save work for sector (-199:337), 0x6cdeda60, entities: 0
+2024-01-14 13-33-19| create save work for sector (-132:304), 0x3c374060, entities: 1379
+2024-01-14 13-33-19| saving sector 0x3c374060
+2024-01-14 13-33-19| saving sector 0x3c374060
+2024-01-14 13-33-19| saving sector (-132:304)
+2024-01-14 13-33-19| sector (-132:304) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-132_304"
+2024-01-14 13-33-46| create save work for sector (-157:339), 0x4bceb9b0, entities: 1
+2024-01-14 13-33-46| saving sector 0x4bceb9b0
+2024-01-14 13-33-46| saving sector 0x4bceb9b0
+2024-01-14 13-33-46| saving sector (-157:339)
+2024-01-14 13-33-46| sector (-157:339) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-157_339"
+2024-01-14 13-34-41| create save work for sector (-138:282), 0x5e25b490, entities: 229
+2024-01-14 13-34-41| saving sector (-138:282)
+2024-01-14 13-34-41| sector (-138:282) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-138_282"
+2024-01-14 13-34-41| Player Erodrayle moved to sector (-140:306)from (-138:282) server time taken for change: 320ms
+2024-01-14 13-34-41| create save work for sector (-140:306), 0x18e5c4b0, entities: 1313
+2024-01-14 13-34-41| SectorDatabase: Loading Sector (-139:307)
+2024-01-14 13-34-41| SectorDatabase: Loading Sector (-140:305)
+2024-01-14 13-34-41| saving sector (-140:306)
+2024-01-14 13-34-42| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-37-05| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.132s); saving backup ...
+2024-01-14 13-37-06| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-14 13-37-06.bak" (0.41s)
+2024-01-14 13-39-42| create save work for sector (-138:282), 0x5e25b490, entities: 228
+2024-01-14 13-39-42| saving sector 0x5e25b490
+2024-01-14 13-39-42| saving sector 0x5e25b490
+2024-01-14 13-39-42| saving sector (-138:282)
+2024-01-14 13-39-42| sector (-138:282) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-138_282"
+2024-01-14 13-42-45| Triggered saving of all server data.
+2024-01-14 13-42-45| create save work for sector (-199:337), 0x6cdeda60, entities: 16
+2024-01-14 13-42-45| saving sector (-199:337)
+2024-01-14 13-42-45| sector (-199:337) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-199_337"
+2024-01-14 13-42-45| create save work for sector (-140:305), 0x6cdfed00, entities: 759
+2024-01-14 13-42-45| saving sector (-140:305)
+2024-01-14 13-42-45| create save work for sector (-140:306), 0x18e5c4b0, entities: 1224
+2024-01-14 13-42-46| sector (-140:305) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_305"
+2024-01-14 13-42-46| saving sector (-140:306)
+2024-01-14 13-42-46| create save work for sector (-139:307), 0x6cdfcd50, entities: 3
+2024-01-14 13-42-47| sector (-140:306) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-140_306"
+2024-01-14 13-42-47| saving sector (-139:307)
+2024-01-14 13-42-47| sector (-139:307) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-139_307"
+2024-01-14 13-42-47| create save work for sector (-116:210), 0x4bce3af0, entities: 246
+2024-01-14 13-42-47| saving sector (-116:210)
+2024-01-14 13-42-47| create save work for sector (-99:149), 0x1f4230d0, entities: 1942
+2024-01-14 13-42-47| sector (-116:210) saved to "D:\TCAFiles\Users\stuartj\37172\Avorion\sectors\-116_210"

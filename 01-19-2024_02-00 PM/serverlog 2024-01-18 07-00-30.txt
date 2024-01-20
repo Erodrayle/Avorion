@@ -1,0 +1,165 @@
+2024-01-18 07-00-30| Main Thread ID: 1
+2024-01-18 07-00-30| Enabled Traces: 
+2024-01-18 07-00-30| Starting thread [Networking 1 WorkerPool Thread 0]...
+2024-01-18 07-00-30| Started thread [Networking 1 WorkerPool Thread 0] with id 2
+2024-01-18 07-00-30| Starting thread [Networking 2 WorkerPool Thread 0]...
+2024-01-18 07-00-30| Started thread [Networking 2 WorkerPool Thread 0] with id 3
+2024-01-18 07-00-30| Avorion server 2.4.2 fe9f7e4f68ce running on Windows 10 starting up in "D:\TCAFiles\Users\stuartj\37172\Avorion"
+2024-01-18 07-00-30| Version Hash: 2038548267253836604
+2024-01-18 07-00-30| CPU: AMD Ryzen 7 3700X 8-Core Processor              16 Cores
+2024-01-18 07-00-30| RAM: 128GB
+2024-01-18 07-00-30| 
+2024-01-18 07-00-30| Initializing networking...
+2024-01-18 07-00-30| Server version, as listed publicly: 2.4.2.40992
+2024-01-18 07-00-31| Server connected to Steam successfully
+2024-01-18 07-00-31| Server is VAC Secure!
+2024-01-18 07-00-31| Game Server Steam ID: 90179688994070531
+2024-01-18 07-00-31| Game Port: 27005
+2024-01-18 07-00-31| Steam Port: 27021
+2024-01-18 07-00-31| Steam Query Port: 27025
+2024-01-18 07-00-31| Query Port: 27003
+2024-01-18 07-00-31| 
+2024-01-18 07-00-31| Steam Networking initialized.
+2024-01-18 07-00-31| Installed Steam exception handler
+2024-01-18 07-00-31| Starting RCON server...Starting thread [RCON]...
+2024-01-18 07-00-31| Started thread [RCON] with id 4
+2024-01-18 07-00-31| RCON server started. Port: 27006
+2024-01-18 07-00-31|  ok
+2024-01-18 07-00-31| Loading global variables...
+2024-01-18 07-00-31| Found 0 mods in "D:\TCAFiles\Users\stuartj\37172\Avorion\modconfig.lua".
+2024-01-18 07-00-33| name: Iohtas' Extra Avorion Server
+2024-01-18 07-00-33| seed: 0
+2024-01-18 07-00-33| port: 27005
+2024-01-18 07-00-33| max online players: 15
+2024-01-18 07-00-33| save interval: 600
+2024-01-18 07-00-33| broadcast interval: 5
+2024-01-18 07-00-33| max loaded sector time: 300
+2024-01-18 07-00-33| weak update: yes
+2024-01-18 07-00-33| worker threads: 1
+2024-01-18 07-00-33| generator threads: 2
+2024-01-18 07-00-33| script background threads: 2
+2024-01-18 07-00-33| difficulty: Veteran
+2024-01-18 07-00-33| scenario: FreePlay
+2024-01-18 07-00-33| tutorial: no
+2024-01-18 07-00-33| collision: 1
+2024-01-18 07-00-33| access list: Blacklist
+2024-01-18 07-00-33| multiplayer: yes
+2024-01-18 07-00-33| vac secure: yes
+2024-01-18 07-00-33| listed: yes
+2024-01-18 07-00-33| steam networking: yes
+2024-01-18 07-00-33| send crash reports: no
+2024-01-18 07-00-33| Backup creation enabled. Path: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups"
+2024-01-18 07-00-33| Please ensure that the server has write-access to that path.
+2024-01-18 07-00-33| administrators: 'Erodrayle' 
+2024-01-18 07-00-33| Commands file: D:\TCAFiles\Users\stuartj\37172\Avorion\commands.txt
+2024-01-18 07-00-33| Initializing sector database...
+2024-01-18 07-00-33| Starting thread [Create Sectors WorkerPool Thread 0]...
+2024-01-18 07-00-33| Started thread [Create Sectors WorkerPool Thread 0] with id 5
+2024-01-18 07-00-33| Starting thread [Create Sectors WorkerPool Thread 1]...
+2024-01-18 07-00-33| Started thread [Create Sectors WorkerPool Thread 1] with id 6
+2024-01-18 07-00-33| Starting thread [Save Sectors WorkerPool Thread 0]...
+2024-01-18 07-00-33| Started thread [Save Sectors WorkerPool Thread 0] with id 7
+2024-01-18 07-00-33| Initializing faction database...
+2024-01-18 07-00-33| Starting thread [Save Factions WorkerPool Thread 0]...
+2024-01-18 07-00-33| Started thread [Save Factions WorkerPool Thread 0] with id 8
+2024-01-18 07-00-33| Initializing galaxy...
+2024-01-18 07-00-33| Starting up 1 worker threads...
+2024-01-18 07-00-33| Tried initializing game workerpool with less than 2 threads. Using 2 threads instead.
+2024-01-18 07-00-33| Starting thread [Game WorkerPool Thread 0]...
+2024-01-18 07-00-33| Started thread [Game WorkerPool Thread 0] with id 9
+2024-01-18 07-00-33| Starting thread [Game WorkerPool Thread 1]...
+2024-01-18 07-00-33| Started thread [Game WorkerPool Thread 1] with id 10
+2024-01-18 07-00-33| Starting up 2 script background threads...
+2024-01-18 07-00-33| Starting thread [Lua WorkerPool Thread 0]...
+2024-01-18 07-00-33| Started thread [Lua WorkerPool Thread 0] with id 11
+2024-01-18 07-00-33| Starting thread [Lua WorkerPool Thread 1]...
+2024-01-18 07-00-33| Started thread [Lua WorkerPool Thread 1] with id 12
+2024-01-18 07-00-33| Starting thread [Lua WorkerPool Thread 2]...
+2024-01-18 07-00-33| Started thread [Lua WorkerPool Thread 2] with id 13
+2024-01-18 07-00-33| Starting thread [Lua WorkerPool Thread 3]...
+2024-01-18 07-00-33| Started thread [Lua WorkerPool Thread 3] with id 14
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 0] with id 11 exiting...
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 0] with id 11 exited
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 1] with id 12 exiting...
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 1] with id 12 exited
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 2] with id 13 exiting...
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 2] with id 13 exited
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 3] with id 14 exiting...
+2024-01-18 07-00-33| Thread [Lua WorkerPool Thread 3] with id 14 exited
+2024-01-18 07-00-33| Starting thread [Lua WorkerPool Thread 4]...
+2024-01-18 07-00-33| Started thread [Lua WorkerPool Thread 4] with id 15
+2024-01-18 07-00-33| Starting thread [Lua WorkerPool Thread 5]...
+2024-01-18 07-00-33| Started thread [Lua WorkerPool Thread 5] with id 16
+2024-01-18 07-00-33| Loading groups...
+2024-01-18 07-00-33| Loading script data...
+2024-01-18 07-00-33| Galaxy initialized.
+2024-01-18 07-00-33| Setting startup script...
+2024-01-18 07-00-33| Starting thread [Input Commands]...
+2024-01-18 07-00-33| Started thread [Input Commands] with id 17
+2024-01-18 07-00-33| Server has been running for 987392 seconds in total, and 987397 without pauses.
+2024-01-18 07-00-33| Starting thread [UDP Connection Receive]...
+2024-01-18 07-00-33| Started thread [UDP Connection Receive] with id 18
+2024-01-18 07-00-33| Server startup complete.
+2024-01-18 07-00-33| Starting thread [HangDetector]...
+2024-01-18 07-00-33| Server UDP: Error receiving from 127.0.0.1, error: An existing connection was forcibly closed by the remote host, received bytes: 0
+2024-01-18 07-00-33| Started thread [HangDetector] with id 19
+2024-01-18 07-00-33| Starting thread [Steam Networking Receive]...
+2024-01-18 07-00-33| Started thread [Steam Networking Receive] with id 20
+2024-01-18 07-10-37| Triggered saving of all server data.
+2024-01-18 07-20-40| Triggered saving of all server data.
+2024-01-18 07-30-44| Triggered saving of all server data.
+2024-01-18 07-40-47| Triggered saving of all server data.
+2024-01-18 07-44-15| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.141s); saving backup ...
+2024-01-18 07-44-16| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-18 07-44-16.bak" (0.852s)
+2024-01-18 07-47-06| <> Massive amounts of Xsotan are swarming in the center of the galaxy.
+2024-01-18 07-50-51| Triggered saving of all server data.
+2024-01-18 08-00-54| Triggered saving of all server data.
+2024-01-18 08-10-58| Triggered saving of all server data.
+2024-01-18 08-17-17| <> The defenses were overrun. The attack of the Xsotan swarm succeded.
+2024-01-18 08-21-01| Triggered saving of all server data.
+2024-01-18 08-31-05| Triggered saving of all server data.
+2024-01-18 08-41-08| Triggered saving of all server data.
+2024-01-18 08-44-36| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.134s); saving backup ...
+2024-01-18 08-44-37| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-18 08-44-37.bak" (0.881s)
+2024-01-18 08-51-12| Triggered saving of all server data.
+2024-01-18 09-01-15| Triggered saving of all server data.
+2024-01-18 09-11-19| Triggered saving of all server data.
+2024-01-18 09-21-22| Triggered saving of all server data.
+2024-01-18 09-31-25| Triggered saving of all server data.
+2024-01-18 09-41-29| Triggered saving of all server data.
+2024-01-18 09-44-57| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.14s); saving backup ...
+2024-01-18 09-44-58| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-18 09-44-57.bak" (0.839s)
+2024-01-18 09-51-33| Triggered saving of all server data.
+2024-01-18 10-01-36| Triggered saving of all server data.
+2024-01-18 10-11-40| Triggered saving of all server data.
+2024-01-18 10-17-58| <> Massive amounts of Xsotan are swarming in the center of the galaxy.
+2024-01-18 10-21-43| Triggered saving of all server data.
+2024-01-18 10-31-47| Triggered saving of all server data.
+2024-01-18 10-41-50| Triggered saving of all server data.
+2024-01-18 10-45-18| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.138s); saving backup ...
+2024-01-18 10-45-19| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-18 10-45-18.bak" (0.865s)
+2024-01-18 10-48-09| <> The defenses were overrun. The attack of the Xsotan swarm succeded.
+2024-01-18 10-51-53| Triggered saving of all server data.
+2024-01-18 11-01-57| Triggered saving of all server data.
+2024-01-18 11-12-00| Triggered saving of all server data.
+2024-01-18 11-22-04| Triggered saving of all server data.
+2024-01-18 11-32-07| Triggered saving of all server data.
+2024-01-18 11-42-11| Triggered saving of all server data.
+2024-01-18 11-45-39| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.138s); saving backup ...
+2024-01-18 11-45-40| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-18 11-45-39.bak" (0.846s)
+2024-01-18 11-52-15| Triggered saving of all server data.
+2024-01-18 12-02-18| Triggered saving of all server data.
+2024-01-18 12-12-21| Triggered saving of all server data.
+2024-01-18 12-22-25| Triggered saving of all server data.
+2024-01-18 12-32-28| Triggered saving of all server data.
+2024-01-18 12-42-32| Triggered saving of all server data.
+2024-01-18 12-45-59| Creating emergency backup, waiting for database ... (0s); collecting data ... (0.14s); saving backup ...
+2024-01-18 12-46-00| Backup saved: "C:\Users\TCAGame_Svc37172\AppData\Roaming\Avorion\backups\Avorion-2024-01-18 12-46-00.bak" (0.853s)
+2024-01-18 12-48-50| <> Massive amounts of Xsotan are swarming in the center of the galaxy.
+2024-01-18 12-52-35| Triggered saving of all server data.
+2024-01-18 13-02-39| Triggered saving of all server data.
+2024-01-18 13-12-42| Triggered saving of all server data.
+2024-01-18 13-19-01| <> The defenses were overrun. The attack of the Xsotan swarm succeded.
+2024-01-18 13-22-46| Triggered saving of all server data.
+2024-01-18 13-32-49| Triggered saving of all server data.
+2024-01-18 13-42-53| Triggered saving of all server data.
